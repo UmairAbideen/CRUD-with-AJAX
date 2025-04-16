@@ -1,4 +1,4 @@
-🌐 Laravel 10 AJAX CRUD with jQuery & Bootstrap
+ # Laravel 10 AJAX CRUD with jQuery & Bootstrap
 This repository demonstrates a simple AJAX-based CRUD system using Laravel 10, jQuery, and Bootstrap. Users can be created, listed, edited, and deleted without any page reloads — providing a smooth, modern user experience.
 
 🚀 Features
